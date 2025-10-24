@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm qudus95</h1>
 <h3 align="center">A passionate frontend web developer from pakistan</h3>
+
  To make it truly unique and tailored to you, could you please share a few details:
 1. **Your profession or current role** (e.g., Software Engineer, Data Scientist, Student, etc.)
 2. **Your top technical skills or areas of expertise** (e.g., Python, JavaScript, Machine Learning, DevOps, etc.)
