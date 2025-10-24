@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm qudus95</h1>
 <h3 align="center">A passionate frontend web developer from pakistan</h3>
+I'd love to help you create an eye-catching profile README, qudus95! To make it truly unique and tailored to you, could you please share a few details:
+
+1. **Your profession or current role** (e.g., Software Engineer, Data Scientist, Student, etc.)
+2. **Your top technical skills or areas of expertise** (e.g., Python, JavaScript, Machine Learning, DevOps, etc.)
+3. **Favorite or most notable projects** (if any, please share repo links or brief descriptions)
+4. **Any achievements, certifications, or awards** you'd like highlighted?
+5. **Social or professional links** (e.g., LinkedIn, Twitter, personal website, blog)
+6. **Fun facts, hobbies, or interests** outside of coding you'd like to include?
+7. **Preferred style** (e.g., professional, playful, minimalist, detailed)
+
+Let me know your answers, and I’ll craft a standout README just for you!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qudus95&label=Profile%20views&color=0e75b6&style=flat" alt="qudus95" /> </p>
 
